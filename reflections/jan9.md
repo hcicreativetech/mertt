@@ -1,4 +1,4 @@
-# January 9th
+# Reading Reflection: January 9th
 
 ## Reflections on "Support Tools Creativity" by Ben Shneiderman
 
