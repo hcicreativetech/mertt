@@ -51,7 +51,7 @@ can computer just create the outcome of a design process?
 
 how about computer-based design assistant?
 	- enhance designer's see/move/see cycle
-	- microworlds that extends designers ability to construct and explore them
+	- microworlds  that extends designers ability to construct and explore them
 	- extend repertoire of prototypes, allow better exploration for design transaction
 
 -->
