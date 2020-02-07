@@ -15,6 +15,12 @@ On the other hand, projects that allow exploration, e.g. research projects, can 
 
 
 <!--
+
+Tinkering vs iterative design 
+
+
+
+
 ## DESIGNING FOR TINKERABILITY
 
 - maker movement : new opportunity for reinvigorating and revalidating the progressive-constructionist tradition in education
